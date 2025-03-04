@@ -1,0 +1,14 @@
+{
+  "title": "SWISSINNO BLE Falle",
+  "config": {
+    "step": {
+      "user": {
+        "title": "SWISSINNO BLE Einrichtung",
+        "description": "Erkennt die SWISSINNO Bluetooth Falle automatisch",
+        "data": {
+          "scan_interval": "Scan Interval (Sekunden)"
+        }
+      }
+    }
+  }
+}
