@@ -6,7 +6,10 @@ A **custom Home Assistant integration** for **SWISSINNO Connect SuperCat**, allo
  
 
 ---
+If you like this integration please consider [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Me!-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/unigas)
 
+
+---
 ## 🚀 Features
 ✔️ **Automatic BLE scanning** – Detects traps without manual pairing.  
 ✔️ **Trap Status Monitoring** – See if traps are set or triggered.  
